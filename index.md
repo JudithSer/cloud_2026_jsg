@@ -10,7 +10,7 @@ Repositorio de prácticas, ejercicios y apuntes de Computación en la nube de JS
 
 ### ☁️​ UT01 - Introduccioón y preparación del entorno
 
-- [PR0101](UT01/pr01010/pr01010.md) Preparacion del entorno
+- [PR0101](UT01/pr0101/pr0101.md) Preparacion del entorno
 
 ### ☁️​ UT02 - Servicios de almacenamiento
 
