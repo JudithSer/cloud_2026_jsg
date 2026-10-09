@@ -16,6 +16,12 @@ Repositorio de prácticas, ejercicios y apuntes de Computación en la nube de JS
 
 - [PR0201](UT02/pr0201/pr0201.md) Despliegue de sitio web estático en AWS S3
 - [PR0202](UT02/pr0202/pr0202.md) Acceso a AWS S3 desde Python
+- [PR0203](UT02/pr0203/pr0203.md) Protección contra desastres y optimización de almacenamiento
+
+### ☁️​ UT03 - Servicios de cómputo
+
+- [PR0301](UT03/pr0301/pr0301.md) Despliegue automatizado de servidor web en EC2
+- [PR0302](UT03/pr0302/pr0302.md) Volúmenes EBS y clonación de AMIs
 
 ---
 
