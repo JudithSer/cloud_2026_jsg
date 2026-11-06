@@ -23,6 +23,8 @@ Repositorio de prácticas, ejercicios y apuntes de Computación en la nube de JS
 - [PR0301](UT03/pr0301/pr0301.md) Despliegue automatizado de servidor web en EC2
 - [PR0302](UT03/pr0302/pr0302.md) Volúmenes EBS y clonación de AMIs
 - [PR0303](UT03/pr0303/pr0303.md) Arquitectura web redundante
+- [PR0304](UT03/pr0304/pr0304.md) Despliegue de servicios en contenedores con Amazon ECS
+- [PR0305](UT03/pr0305/pr0305.md) Cómputo orientado a eventos con AWS Lambda y Amazon S3
 
 ---
 
