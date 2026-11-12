@@ -28,6 +28,10 @@ Repositorio de prácticas, ejercicios y apuntes de Computación en la nube de JS
 
 ---
 
+[GUIA](guia-practicas-aws.md) Guía de prácticas AWS (1ª evaluación)
+
+---
+
 ### Sobre este repositorio
 
 En este repositorio iré recopilando las prácticas realizadas durante el curso de ASIR, incluyendo explicaciones, comandos, código y capturas de pantalla.
